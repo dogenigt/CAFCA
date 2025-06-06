@@ -4,6 +4,6 @@
   |        ___ \    __|     |        ___ \  
  \____|  _/    _\  _|      \____|  _/    _\ 
                                             
-   COIN ADDRESS FETCH COMMAND FOR ARCADES
+   <code style="color: grey">COIN ADDRESS FETCH COMMAND FOR ARCADES</code>
 ____________________________________________
 </pre>
