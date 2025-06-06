@@ -1,3 +1,9 @@
-# CAFCA
-Coin Address Fetch Command for Arcade
-6/6-25 17:36
+<pre>
+   ___|      \      ____|    ___|      \    
+  |         _ \     |       |         _ \   
+  |        ___ \    __|     |        ___ \  
+ \____|  _/    _\  _|      \____|  _/    _\ 
+                                            
+   COIN ADDRESS FETCH COMMAND FOR ARCADES
+____________________________________________
+</pre>
